@@ -1,0 +1,13 @@
+1: An app to help decide where to eat
+  - the app will help the user, or users, decide amoung local restaurants based on various criteria.
+  
+2: A to do app
+  - the app would remind the user of tasks that need to be completed on a certain day. The tasks could be set individually, be reaccuring, or be grouped together to create events.
+  
+3: Fantasy football
+  - the app would help the user create a fantasy football team. In the future it could be expanded to connect with other users to host a league.
+  
+4: Recipe app
+  - users could submit and organize recipes, as well as share them with other users
+  
+More to follow!
